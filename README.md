@@ -1,1 +1,1 @@
-TestAngularProject
+npmTestAngularProject
